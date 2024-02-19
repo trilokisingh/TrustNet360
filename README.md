@@ -57,5 +57,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 Special thanks to the developers of pycountry-convert and VirusTotal for their APIs.
-
-Feel free to adjust the content as needed and include any additional sections or information relevant to your project.
